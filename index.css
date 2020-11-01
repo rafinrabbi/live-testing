@@ -6,6 +6,11 @@
 img{
 display : none;
 }
+
+#live{
+    /* display: none; */
+}
+
 .button-play {
     width: 74px;
     height: 74px;
